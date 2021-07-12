@@ -1,9 +1,114 @@
-<!-- latest_release 0.2.7 -->
+<!-- latest_release 0.2.28 -->
+## [v0.2.28](https://github.com/chef/chef-workstation-app/tree/v0.2.28) (2021-07-12)
+
+#### Merged Pull Requests
+- Bump @types/node from 16.0.1 to 16.3.1 [#404](https://github.com/chef/chef-workstation-app/pull/404) ([dependabot[bot]](https://github.com/dependabot[bot]))
+<!-- latest_release -->
+
+## [v0.2.27](https://github.com/chef/chef-workstation-app/tree/v0.2.27) (2021-07-08)
+
+#### Merged Pull Requests
+- Bump @types/node from 16.0.0 to 16.0.1 [#402](https://github.com/chef/chef-workstation-app/pull/402) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.26](https://github.com/chef/chef-workstation-app/tree/v0.2.26) (2021-07-06)
+
+#### Merged Pull Requests
+- Bump mocha from 9.0.1 to 9.0.2 [#400](https://github.com/chef/chef-workstation-app/pull/400) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.25](https://github.com/chef/chef-workstation-app/tree/v0.2.25) (2021-07-06)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.14.0 to 16.0.0 [#399](https://github.com/chef/chef-workstation-app/pull/399) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.24](https://github.com/chef/chef-workstation-app/tree/v0.2.24) (2021-07-06)
+
+#### Merged Pull Requests
+- Bump electron from 13.1.5 to 13.1.6 [#401](https://github.com/chef/chef-workstation-app/pull/401) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.23](https://github.com/chef/chef-workstation-app/tree/v0.2.23) (2021-07-02)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.12.5 to 15.14.0 [#397](https://github.com/chef/chef-workstation-app/pull/397) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.22](https://github.com/chef/chef-workstation-app/tree/v0.2.22) (2021-07-02)
+
+#### Merged Pull Requests
+- Bump electron from 13.1.4 to 13.1.5 [#398](https://github.com/chef/chef-workstation-app/pull/398) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.21](https://github.com/chef/chef-workstation-app/tree/v0.2.21) (2021-07-01)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.12.4 to 15.12.5 [#395](https://github.com/chef/chef-workstation-app/pull/395) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.20](https://github.com/chef/chef-workstation-app/tree/v0.2.20) (2021-07-01)
+
+#### Merged Pull Requests
+- Bump electron from 13.1.3 to 13.1.4 [#394](https://github.com/chef/chef-workstation-app/pull/394) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.19](https://github.com/chef/chef-workstation-app/tree/v0.2.19) (2021-07-01)
+
+#### Merged Pull Requests
+- Bump typescript from 4.3.4 to 4.3.5 [#396](https://github.com/chef/chef-workstation-app/pull/396) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.18](https://github.com/chef/chef-workstation-app/tree/v0.2.18) (2021-06-22)
+
+#### Merged Pull Requests
+- Bump electron from 12.0.9 to 13.1.3 [#392](https://github.com/chef/chef-workstation-app/pull/392) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.17](https://github.com/chef/chef-workstation-app/tree/v0.2.17) (2021-06-21)
+
+#### Merged Pull Requests
+- Bump typescript from 4.3.2 to 4.3.4 [#388](https://github.com/chef/chef-workstation-app/pull/388) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.16](https://github.com/chef/chef-workstation-app/tree/v0.2.16) (2021-06-21)
+
+#### Merged Pull Requests
+- Bump mocha from 9.0.0 to 9.0.1 [#390](https://github.com/chef/chef-workstation-app/pull/390) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.15](https://github.com/chef/chef-workstation-app/tree/v0.2.15) (2021-06-21)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.12.2 to 15.12.4 [#391](https://github.com/chef/chef-workstation-app/pull/391) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.14](https://github.com/chef/chef-workstation-app/tree/v0.2.14) (2021-06-13)
+
+#### Merged Pull Requests
+- Fix loading all helpers by turning off context isolation [#386](https://github.com/chef/chef-workstation-app/pull/386) ([tas50](https://github.com/tas50))
+
+## [v0.2.13](https://github.com/chef/chef-workstation-app/tree/v0.2.13) (2021-06-11)
+
+#### Merged Pull Requests
+- Bump normalize-url from 4.5.0 to 4.5.1 [#383](https://github.com/chef/chef-workstation-app/pull/383) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.12](https://github.com/chef/chef-workstation-app/tree/v0.2.12) (2021-06-08)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.12.0 to 15.12.2 [#381](https://github.com/chef/chef-workstation-app/pull/381) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.11](https://github.com/chef/chef-workstation-app/tree/v0.2.11) (2021-06-08)
+
+#### Merged Pull Requests
+- Bump mocha from 8.4.0 to 9.0.0 [#382](https://github.com/chef/chef-workstation-app/pull/382) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.10](https://github.com/chef/chef-workstation-app/tree/v0.2.10) (2021-06-04)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.9.0 to 15.12.0 [#378](https://github.com/chef/chef-workstation-app/pull/378) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.9](https://github.com/chef/chef-workstation-app/tree/v0.2.9) (2021-06-03)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.6.2 to 15.9.0 [#376](https://github.com/chef/chef-workstation-app/pull/376) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+## [v0.2.8](https://github.com/chef/chef-workstation-app/tree/v0.2.8) (2021-06-02)
+
+#### Merged Pull Requests
+- Bump @types/node from 15.6.1 to 15.6.2 [#375](https://github.com/chef/chef-workstation-app/pull/375) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
 ## [v0.2.7](https://github.com/chef/chef-workstation-app/tree/v0.2.7) (2021-05-27)
 
 #### Merged Pull Requests
 - Bump @types/node from 15.6.0 to 15.6.1 [#370](https://github.com/chef/chef-workstation-app/pull/370) ([dependabot[bot]](https://github.com/dependabot[bot]))
-<!-- latest_release -->
 
 ## [v0.2.6](https://github.com/chef/chef-workstation-app/tree/v0.2.6) (2021-05-27)
 
